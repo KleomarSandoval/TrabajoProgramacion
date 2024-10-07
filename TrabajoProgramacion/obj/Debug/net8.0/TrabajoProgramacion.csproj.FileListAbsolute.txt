@@ -1,0 +1,14 @@
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\obj\Debug\net8.0\TrabajoProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\obj\Debug\net8.0\TrabajoProgramacion.AssemblyInfoInputs.cache
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\obj\Debug\net8.0\TrabajoProgramacion.AssemblyInfo.cs
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\obj\Debug\net8.0\TrabajoProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\bin\Debug\net8.0\TrabajoProgramacion.exe
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\bin\Debug\net8.0\TrabajoProgramacion.deps.json
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\bin\Debug\net8.0\TrabajoProgramacion.runtimeconfig.json
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\bin\Debug\net8.0\TrabajoProgramacion.dll
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\bin\Debug\net8.0\TrabajoProgramacion.pdb
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\obj\Debug\net8.0\TrabajoProgramacion.dll
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\obj\Debug\net8.0\refint\TrabajoProgramacion.dll
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\obj\Debug\net8.0\TrabajoProgramacion.pdb
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\obj\Debug\net8.0\TrabajoProgramacion.genruntimeconfig.cache
+C:\Users\kleom\source\repos\TrabajoProgramacion\TrabajoProgramacion\obj\Debug\net8.0\ref\TrabajoProgramacion.dll
